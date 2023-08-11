@@ -1,0 +1,66 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/epilepsy---primary.py
+inputModule3:
+  class: File
+  path: python/myoclonic-epilepsy---primary.py
+inputModule4:
+  class: File
+  path: python/convulsive-epilepsy---primary.py
+inputModule5:
+  class: File
+  path: python/epilepsy-petit---primary.py
+inputModule6:
+  class: File
+  path: python/epilepsy-epilepticu---primary.py
+inputModule7:
+  class: File
+  path: python/pyknoepilepsy---primary.py
+inputModule8:
+  class: File
+  path: python/epilepsy-lennoxgastaut---primary.py
+inputModule9:
+  class: File
+  path: python/epilepsy-specified---primary.py
+inputModule10:
+  class: File
+  path: python/grand-epilepsy---primary.py
+inputModule11:
+  class: File
+  path: python/tonicclonic-epilepsy---primary.py
+inputModule12:
+  class: File
+  path: python/epilepsy-otohara---primary.py
+inputModule13:
+  class: File
+  path: python/epilepsy-consciousness---primary.py
+inputModule14:
+  class: File
+  path: python/epilepsy-motor---primary.py
+inputModule15:
+  class: File
+  path: python/complex-epilepsy---primary.py
+inputModule16:
+  class: File
+  path: python/focal-epilepsy---primary.py
+inputModule17:
+  class: File
+  path: python/epilepsy-reflex---primary.py
+inputModule18:
+  class: File
+  path: python/partial-epilepsy---primary.py
+inputModule19:
+  class: File
+  path: python/epilepsy-forms---primary.py
+inputModule20:
+  class: File
+  path: python/epilepsy-seizure---primary.py
+inputModule21:
+  class: File
+  path: python/output-cases.py
